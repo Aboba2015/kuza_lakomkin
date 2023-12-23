@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout << "1." << setw(10) << "Ivanov" << endl;
-    cout << "2." << setw(10) << left << "Ivanov" << endl;
-    cout << "3." << setw(10) << right << "Ivanov" << endl;
+    cout << "1." << setw(10) << "Zabaturin" << endl;
+    cout << "2." << setw(10) << left << "Zabaturin" << endl;
+    cout << "3." << setw(10) << right << "Zabaturin" << endl;
     return 0;
 }
