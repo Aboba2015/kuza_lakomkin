@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-    int x=3;
+    int x=6;
     cout << sizeof(int) << endl;
-    cout << sizeof (x*10) << endl;
-    cout << sizeof (x*0.1) << endl;
+    cout << sizeof (x*20) << endl;
+    cout << sizeof (x*0.2) << endl;
     return 0;
 }
